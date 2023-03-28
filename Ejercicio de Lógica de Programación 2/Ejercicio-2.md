@@ -33,3 +33,9 @@ Grados Kelvin: 318.15
 - Recuerda convertir a number el valor solicitado por prompt y verificar que sea un número para evitar errores en tu programa.
 - Recuerda que para mostrar mensajes por consola o por el DOM, debes crear un archivo `HTML` y enlazar tu script.
 
+
+## Solucion
+
+Para la resolucion de este problema primero investigue las formulas de conversion, al ver que estaban sencillas comence a pensar que elementos necesitaria crear del DOM y como lo manipularia, al final cree un pequeño formulario y dos etiquetas p
+
+

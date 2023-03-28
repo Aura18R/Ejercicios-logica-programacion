@@ -31,3 +31,8 @@ Output:
 - Recuerda convertir a number el valor solicitado por prompt y verificar que sea un número para evitar errores en tu programa.
 - Recuerda que para mostrar mensajes por consola o por el DOM, debes crear un archivo `HTML` y enlazar tu script.
 
+
+## Razonamiento
+
+Para resolver el problema primero pense en todos los posibles escenarios si comparaba tres numeros, posteriormente los acomode en casos con un if y al final los imprimi
+
