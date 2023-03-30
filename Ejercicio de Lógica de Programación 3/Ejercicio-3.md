@@ -30,3 +30,7 @@ Output:
 - Recuerda convertir a number el valor solicitado por prompt y verificar que sea un número para evitar errores en tu programa.
 - Recuerda que para mostrar mensajes por consola o por el DOM, debes crear un archivo `HTML` y enlazar tu script.
 
+
+## Solucion
+
+Para resolver el problema primero recorde como calcular el factorial de un numero de manera recursiva, posteriromente pense en todos los elementos que tendria mi HTML y los id que tendria cada elemento, por ultimo en el script llame el valor del imput aplique la funcion factorial y por ultimo lo escribi en el contenido de la etiqueta p.
