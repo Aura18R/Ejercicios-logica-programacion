@@ -23,3 +23,7 @@
 -  Puedes desarrollar el algoritmo y su pseudocódigo
 -  Por ser el ejercicio final, se evaluarán *todos los aspectos* de un buen código
    -  Limpieza, legibilidad, simplicidad, documentación, etc...
+
+## Solucion 
+
+Primero elegi las palabras que llevaria el hashmap, posteriormente pense en como hacer la busqueda random apoyandome de una lista auxiliar, por ultimo inicie dos contadores uno para palabras correctas y uno para palabras incorrectas y comence a comparar.
